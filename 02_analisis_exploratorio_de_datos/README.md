@@ -1,1 +1,1 @@
-# Análisis Exploratorio de Datos (EDA)
+# 02_analisis_exploratorio_de_datos
