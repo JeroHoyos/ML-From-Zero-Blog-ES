@@ -1,2 +1,0 @@
-# Detección Outliers
-

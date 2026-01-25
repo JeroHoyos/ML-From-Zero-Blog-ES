@@ -1,2 +1,0 @@
-# Visualización exploratoria de datos
-

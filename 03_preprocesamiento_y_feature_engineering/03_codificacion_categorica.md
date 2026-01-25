@@ -1,0 +1,1 @@
+# Codificación de Variables Categóricas

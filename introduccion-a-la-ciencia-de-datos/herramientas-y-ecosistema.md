@@ -1,2 +1,0 @@
-# Herramientas y ecosistema
-

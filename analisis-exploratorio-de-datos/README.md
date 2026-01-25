@@ -1,2 +1,0 @@
-# Análisis exploratorio de datos
-
