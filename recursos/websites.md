@@ -6,4 +6,4 @@
 
 ### Aprendizaje Automatico
 
-<table><thead><tr><th width="353"></th><th width="99"></th><th></th></tr></thead><tbody><tr><td><a href="https://jdariasl.github.io/teaching/">J. D. Arias-Londoño, <em>Teaching</em></a></td><td>Español</td><td></td></tr><tr><td><a href="https://lethalbrains.com/learn-ml-algorithms-by-coding-decision-trees-439ac503c9a4">Rahul, <em>Learn ML Algorithms by coding: Decision Trees</em>, Lethal Brains</a></td><td>Inglés</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="353">Título</th><th width="99">Idioma</th><th>Comentario</th></tr></thead><tbody><tr><td><a href="https://jdariasl.github.io/teaching/">J. D. Arias-Londoño, <em>Teaching</em></a></td><td>Español</td><td></td></tr><tr><td><a href="https://lethalbrains.com/learn-ml-algorithms-by-coding-decision-trees-439ac503c9a4">Rahul, <em>Learn ML Algorithms by coding: Decision Trees</em>, Lethal Brains</a></td><td>Inglés</td><td></td></tr></tbody></table>
