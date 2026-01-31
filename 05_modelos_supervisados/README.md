@@ -9,3 +9,10 @@ El objetivo del aprendizaje supervisado es dado uno conjunto de datos $${x^{(1)}
 Un clasificador binario donde prediga dada una imagen sea un gato o un perro.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### Tipos de predicción
+
+#### Regresión
+
+#### Clasificación
+
