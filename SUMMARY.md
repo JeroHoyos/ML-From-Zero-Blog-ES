@@ -71,3 +71,8 @@
   * [Cálculo](appendix/02_calculo.md)
   * [Probabilidad y Estadística](appendix/03_probabilidad_y_estadistica.md)
 * [Referencias](referencias.md)
+* [Recursos](recursos/README.md)
+  * [Libros](recursos/libros.md)
+  * [WebSites](recursos/websites.md)
+  * [Cursos](recursos/cursos.md)
+  * [Papers](recursos/papers.md)
