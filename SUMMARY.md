@@ -27,7 +27,7 @@
   * [Métricas de Evaluación](04_introduccion_a_machine_learning/03_metricas_de_evaluacion.md)
   * [Overfitting y Regularización](04_introduccion_a_machine_learning/04_overfitting_y_regularizacion.md)
   * [Ajuste de Hiperparámetros](04_introduccion_a_machine_learning/05_ajuste_de_hiperparametros.md)
-* [Aprendizaje Supervisados](05_modelos_supervisados/README.md)
+* [Aprendizaje Supervisado](05_modelos_supervisados/README.md)
   * [Regresión Lineal](05_modelos_supervisados/01_regresion_lineal.md)
   * [Clasificación Lineal](05_modelos_supervisados/02_clasificacion_lineal.md)
   * [k-Nearest Neighbors](05_modelos_supervisados/03_knn.md)
