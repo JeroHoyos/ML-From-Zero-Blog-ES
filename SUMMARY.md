@@ -76,3 +76,5 @@
   * [Cursos](recursos/cursos.md)
   * [Papers](recursos/papers.md)
 * [Referencias](referencias.md)
+* [Grupo de Estudio](grupo-de-estudio/README.md)
+  * [Tareas](grupo-de-estudio/tareas.md)
