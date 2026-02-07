@@ -19,3 +19,10 @@
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83?returnTo=paths)            |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78?returnTo=paths) |
 
+### Semana-2
+
+| Ejercicios                                                                                         |
+| -------------------------------------------------------------------------------------------------- |
+| [Product Rule for Derivatives](https://www.deep-ml.com/problems/309?returnTo=paths)                |
+| [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118?returnTo=paths) |
+| [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10?returnTo=paths)                  |
