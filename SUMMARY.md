@@ -22,7 +22,7 @@
   * [Feature Engineering](03_preprocesamiento_y_feature_engineering/06_feature_engineering.md)
   * [Reducción de Dimensionalidad](03_preprocesamiento_y_feature_engineering/07_reduccion_de_dimensionalidad.md)
 * [Introducción a Machine Learning](04_introduccion_a_machine_learning/README.md)
-  * [Tipos de Aprendizaje](04_introduccion_a_machine_learning/01_tipos_de_aprendizaje.md)
+  * [Estimación de f(x)](04_introduccion_a_machine_learning/01_tipos_de_aprendizaje.md)
   * [Entrenamiento y Validación](04_introduccion_a_machine_learning/02_entrenamiento_y_validacion.md)
   * [Métricas de Evaluación](04_introduccion_a_machine_learning/03_metricas_de_evaluacion.md)
   * [Overfitting y Regularización](04_introduccion_a_machine_learning/04_overfitting_y_regularizacion.md)
