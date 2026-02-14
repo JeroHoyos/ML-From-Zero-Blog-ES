@@ -3,8 +3,6 @@
 * [ML From Zero](README.md)
 * [Introducción a Data Science](01_introduccion_a_data_science/README.md)
   * [¿Qué es Data Science?](01_introduccion_a_data_science/que-es-data-science.md)
-  * [Flujo de Trabajo en Data Science](01_introduccion_a_data_science/flujo-de-trabajo-en-data-science.md)
-  * [Tipos de Datos y Problemas](01_introduccion_a_data_science/tipos-de-datos-y-problemas.md)
   * [Herramientas y Ecosistema](01_introduccion_a_data_science/herramientas-y-ecosistema.md)
 * [Introducción a Machine Learning](04_introduccion_a_machine_learning/README.md)
   * [Estimación de f(x)](04_introduccion_a_machine_learning/01_tipos_de_aprendizaje.md)
