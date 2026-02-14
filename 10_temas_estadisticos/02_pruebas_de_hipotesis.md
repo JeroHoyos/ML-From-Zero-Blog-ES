@@ -1,1 +1,0 @@
-# Pruebas de Hipótesis

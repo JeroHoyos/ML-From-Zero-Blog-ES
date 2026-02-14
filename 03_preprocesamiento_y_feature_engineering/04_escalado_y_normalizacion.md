@@ -1,1 +1,0 @@
-# Escalado y Normalización

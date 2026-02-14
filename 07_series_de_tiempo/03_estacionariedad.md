@@ -1,1 +1,0 @@
-# Estacionariedad y Diferenciación

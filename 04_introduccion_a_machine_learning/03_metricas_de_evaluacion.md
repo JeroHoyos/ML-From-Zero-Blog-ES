@@ -33,3 +33,16 @@ Buscamos minizar el Error Rate, donde su mínimo está dado por
 $$
 \forall i \quad I(y_i \neq \hat{y}_i) =0
 $$
+
+### Overfitting
+
+Cuando se tiene bajo la métrica de error en el conjunto de entrenamienyo y alto en el conjunto de prueba.
+
+### Sesgo ó Bias
+
+$$
+Bias[\hat{f}(X)]=E[\hat{f}(X)]-f(X)
+$$
+
+* &#x20;$$Bias[\hat{f}(X)] = 0 \quad \to \quad$$ El estimador está "insesgado"-
+* &#x20;$$Bias[\hat{f}(X)] =\text{"Alto"} \quad \to \quad$$ Modelo muy simple para capturar la estructura de los datos.

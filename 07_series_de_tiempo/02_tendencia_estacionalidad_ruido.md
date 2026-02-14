@@ -1,1 +1,0 @@
-# Tendencia, Estacionalidad y Ruido
