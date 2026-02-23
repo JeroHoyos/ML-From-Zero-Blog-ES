@@ -9,6 +9,13 @@
 | Competencia                                                             | Kaggle: [Predicting Heart Disease](https://www.kaggle.com/competitions/playground-series-s6e2) |
 | [An Introduction to Statistical Learning](https://www.statlearning.com) | Capítulo 2: Page 15 - 69                                                                       |
 
+#### Mes - 2
+
+| Tarea                                                                                                 | Descripción           |
+| ----------------------------------------------------------------------------------------------------- | --------------------- |
+| Competencia                                                                                           | Kaggle:  por verse xd |
+| [intro-data-analysis](https://michael-franke.github.io/intro-data-analysis/general-introduction.html) | Leerse toda la web    |
+
 ## Semanales
 
 ### Semana - 1
